@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1724272657 source:c:\users\kuzni\onedrive\escritorio\recuerdo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1724979455 source:c:\users\kuzni\desktop\recuerdo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<unistd.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+

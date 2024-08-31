@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1725129019 source:c:\users\kuzni\desktop\servidor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1725129019 source:c:\users\kuzni\desktop\ejerccio de socket\servidor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1725129019 source:c:\users\kuzni\desktop\ejerccio_socket\servidor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+

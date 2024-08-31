@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1724272473 source:c:\users\kuzni\onedrive\escritorio\cliente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1724979438 source:c:\users\kuzni\desktop\cliente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1725134484 source:c:\users\kuzni\desktop\ejerccio_socket\cliente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
